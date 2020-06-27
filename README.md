@@ -1,0 +1,2 @@
+# MGMT300_Summer2020
+Course name: Quantitative Tools for Management (https://cbe.aua.am/course-description-2/)
